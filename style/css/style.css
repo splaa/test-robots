@@ -1,0 +1,28 @@
+.search-form{
+	background: url("../img/logo.jpg") no-repeat scroll center top;
+	height: 400px;
+	padding-top: 160px;
+}
+.search-form input{
+	background: #ccc none repeat scroll 0 0;
+	width: 590px !important;
+}
+.bs-callout-danger {
+	border-left-color: #ce4844;
+}
+.bs-callout {
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	border-color: #eee;
+	border-image: none;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px 1px 1px 5px;
+	margin: 20px 0;
+	padding: 20px;
+}
+.bs-callout-danger h4 {
+	color: #ce4844;
+}
