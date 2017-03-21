@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/andapp.sevenpowerx.com.ua/webstat"
+AuthUserFile /var/www/serik_lav7/data/etc/11930107.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
